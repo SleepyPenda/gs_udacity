@@ -11,7 +11,8 @@
                 "/home/giseon/scout_ws/src/scout_ros/scout_base/include/**",
                 "/home/giseon/scout_ws/src/ugv_sdk/include/**",
                 "/usr/include/**",
-                "/home/giseon/udacity_gs/project2/**"
+                "/home/giseon/udacity_gs/project2/**",
+                "${workspaceFolder}/project2/devel/include"
             ],
             "name": "ROS",
             "intelliSenseMode": "gcc-x64",

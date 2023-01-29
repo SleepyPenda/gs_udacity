@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/giseon/udacity_gs/beginner_tutorials_ws/devel -DCMAKE_INSTALL_PREFIX=/home/giseon/udacity_gs/beginner_tutorials_ws/install -G Unix Makefiles
